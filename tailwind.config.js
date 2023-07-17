@@ -4,8 +4,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily:{
-        Orbitron: ["Orbitron", "sans-seri",
-                 "Sassy Frass", "cursive"],
+        Orbitron: ["Orbitron", "sans-seri"],
+       
 
       },
     },
