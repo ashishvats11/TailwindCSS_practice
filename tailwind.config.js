@@ -2,7 +2,13 @@
 module.exports = {
   content: ["*"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily:{
+        Orbitron: ["Orbitron", "sans-seri",
+                 "Sassy Frass", "cursive"],
+
+      },
+    },
   },
   plugins: [],
 }
